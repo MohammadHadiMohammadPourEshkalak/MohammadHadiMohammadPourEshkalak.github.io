@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "محمدهادی محمدپور"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Mohammad Hadi" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : -
 facebook:
-  username               : sauleh.eetemadi
+  username               : -
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,22 +108,22 @@ analytics:
 # Site Author
 author:
   name             : "Mohammad Hadi Mohammad Pour"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  avatar           : "/assets/images/10.jpg"
+  bio              : I'm a Student of Computer Engeneer at Iran University of Science and Tecnology 
+  location         : "گیلان"
+  email            : m.h.m.p.1381@gmail.com
+  twitter: -
+  linkedin: -
+  google_scholar: -
+  github: mohammadhadimohammadpoureshkalak
+  instagram: m.h.mohammad.pour
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:mohammad_m81@comp.iust.ac.ir.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://mohammadhadimohammadpoureshkalak.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -132,13 +132,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/mohammadhadimohammadpoureshkalak"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/m.h.mohammad.pour"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      #url: "http://calendly.com/pourrang_atashi"
 
 # Site Footer
 footer:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://mohammadhadimohammadpoureshkalak.github.io/""
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -159,11 +159,11 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      icon: ""
+      url: "https://instagram.com/m.h.mohammad.pour"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      #url: "http://calendly.com/pourrang_atashi"
 
 
 # Reading Files
